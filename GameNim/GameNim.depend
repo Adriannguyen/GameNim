@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1619412930 source:c:\users\admin\onedrive\documents\github\gamenim\gamenim\column.cpp
+	<iostream>
+	"column.h"
+
+1619413011 c:\users\admin\onedrive\documents\github\gamenim\gamenim\column.h
+
+1619412944 source:c:\users\admin\onedrive\documents\github\gamenim\gamenim\game.cpp
+	<iostream>
+	"game.h"
+	"column.h"
+	<vector>
+
+1619413035 c:\users\admin\onedrive\documents\github\gamenim\gamenim\game.h
+	<iostream>
+	<vector>
+	"column.h"
+
+1620207062 source:c:\users\admin\onedrive\documents\github\gamenim\gamenim\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	<stdlib.h>
+	"visual.h"
+
+1620205186 c:\users\admin\onedrive\documents\github\gamenim\gamenim\visual.h
+	<iostream>
+
+1620206530 source:c:\users\admin\onedrive\documents\github\gamenim\gamenim\visual.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<conio.h>
+	"column.h"
+	"game.h"
+	"visual.h"
+
