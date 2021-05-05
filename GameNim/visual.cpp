@@ -161,7 +161,6 @@ void createGame(Game &_g)
 {
     Column _c ;
 
-
     n = level * 3 - (rand() % 3);
 
     for(int i = 0; i < n; i++){
