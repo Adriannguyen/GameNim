@@ -5,3 +5,9 @@ Có một vài đống đá, mỗi đống sẽ có một số lượng biết t
 Có một trò chơi tổng hợp, hợp thành từ N trò chơi nhỏ giống nhau, và có 2 người chơi A và B. Nếu cả A và B đều có lựa chọn tối ưu trong mỗi bước đi của họ (nghĩa là không ai mắc một sai lầm nào), thì người chơi đầu tiên sẽ giành chiến thắng nếu XOR của các số Grundy của từng trò chơi nhỏ cho kết quả khác 0. Ngược lại, nếu kết quả này bằng 0, người chơi đầu tiên sẽ thất bại, bất kể anh ta dùng cách gì đi nữa.
 
 Nếu cả A và B đều lựa chọn cách chơi tối ưu (nghĩa là họ không mắc một sai lầm nào trong bước đi của họ), thì người chơi A sẽ giành chiến thắng nếu tổng Nim của game khác không. Ngược lại, người chơi B sẽ chiến thắng, bất kể hai người đi như thế nào.
+
+# Ghi chú
+- Game tự viết hoàn toàn
+- Thuật toán ngoài chương trình
+- Đồ họa đơn giản
+- Có nhạc nền
